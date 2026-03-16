@@ -97,50 +97,75 @@
         align-items: center;
         justify-content: center;
     }
-    .button1{
-        height: 35px;
-        width: 50px;
-        border: none;
-        background-color: white;
+      .search1 {
+      width: 23%;
+      display: flex;
+      height: 50px;
+      background-color: white;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      border-radius: 10px 10px;
+    
     }
-     .button2{
-        height: 35px;
-        width: 50px;
-         border: none;
-         background-color: white;
-        
+
+    .search1 input {
+      width: 85%;
+      height: 45px;
+      outline: none;
+      padding-left: 20px;
+      margin-left: -5;
+      border: none;
+      border-left: 1px solid #E7E7E7;
     }
-    .search1{
-        height: 35px;
-        width: 300px;
-        background-color: white;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        border: none;
+
+     .button1 {
+      height: 50px;
+      width: 37px;
+      padding: 5px;
+      font-size: 12px;
+      outline: none;
+      border: none;
+      border-radius: 0 5px 5px 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: white;
     }
-    .search2{
-        height: 35px;
-        width: 380px;
-        background-color: white;
-          display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-left: 50px;
+     
+      .search2 {
+      width: 30%;
+      display: flex;
+      height: 50px;
+      background-color: white;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      border-radius: 10px 10px;
+      margin-left: 50px;
+    
     }
-    .search3{
-         height: 35px;
-        width: 200px;
-        background-color: white;
-          display: flex;
-        align-items: center;
-        justify-content: center;
-        
+
+    .search2 input {
+      width: 85%;
+      height: 45px;
+      outline: none;
+      padding-left: 20px;
+      margin-left: -5;
+      border: none;
+      border-left: 1px solid #E7E7E7;
     }
-     .search4{
-         height: 35px;
-        width: 380px;
-        background-color: white;
-        border: none;
-        
+
+     .button2 {
+      height: 45px;
+      width: 47px;
+      padding: 5px;
+      font-size: 12px;
+      outline: none;
+      border: none;
+      border-radius: 0 5px 5px 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: white;
     }
