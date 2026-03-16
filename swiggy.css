@@ -95,3 +95,13 @@
         background-color: rgb(255, 82, 0);
         display: flex;
     }
+    .button1{
+        height: 40px;
+        width: 50px;
+        background-color:rgb(255, 82, 0) ;
+    }
+     .button2{
+        height: 40px;
+        width: 50px;
+        background-color:rgb(255, 82, 0) ;
+    }
