@@ -128,3 +128,18 @@
         justify-content: center;
         margin-left: 50px;
     }
+    .search3{
+         height: 40px;
+        width: 200px;
+        background-color: white;
+          display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+     .search4{
+         height: 40px;
+        width: 300px;
+        background-color: white;
+        
+    }
