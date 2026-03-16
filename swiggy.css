@@ -12,11 +12,7 @@
         align-items: center;
         justify-content: center;
      }
-     .body{
-        height: 800px;
-        width: 100%;
-        background-color: rgb(255, 82, 0);
-     }
+
      .buttom{
         height: 700px;
         width: 100%;
@@ -71,4 +67,31 @@
         background-color: black;
         margin-right: 60px;
         
+    }
+      .body{
+        height: 200px;
+        width: 100%;
+        background-color: rgb(255, 82, 0);
+        display: flex;
+       
+       
+        
+     }
+    .discription{
+        height: 80px;
+        width: 60%;
+        color: white;
+        margin-top: 90px;
+        margin-left: 27%;
+        font-size: 23px;
+
+    }
+    .point{
+        margin-left: 70px;
+    }
+    .body2{
+         height: 200px;
+        width: 100%;
+        background-color: rgb(255, 82, 0);
+        display: flex;
     }
