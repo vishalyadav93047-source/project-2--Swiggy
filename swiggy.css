@@ -202,17 +202,19 @@
       width: 80%;
       background-color:white ;
       margin-bottom: 10px;
+      overflow-x: scroll;
     
     }
     .body4{
       height: 500px;
       width: 100%;
       display: flex;
+      overflow-x: scroll;
     }
     .product2{
-      display: flex;
       height: 200px;
-      width: 200px;
+      width: 600px;
+      display: flex;
       border: 2px solid black;
       margin-top: 100px;
       margin-left: 50px;
