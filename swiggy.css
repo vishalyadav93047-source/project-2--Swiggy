@@ -204,3 +204,10 @@
       margin-bottom: 10px;
     
     }
+    .body4{
+      height: 500px;
+      width: 100%;
+    }
+    .product2{
+      display: flex;
+    }
