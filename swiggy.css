@@ -269,3 +269,6 @@
 
 /* Optional: Hide scrollbar */
 
+.body5::-webkit-scrollbar {
+    display: none;
+  }
