@@ -260,7 +260,12 @@
     flex-shrink: 0;        /* Prevent shrinking */
   }
 
-
+.product3 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
 
 /* Optional: Hide scrollbar */
 
