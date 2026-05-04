@@ -25,7 +25,7 @@
         margin-left: 50px;
     } 
     .box2{
-         height: 60px;
+        height: 60px;
         width: 150px;
         color: white;
         margin-top: 65px;
@@ -34,7 +34,7 @@
         
     }
     .box3{
-         height: 60px;
+        height: 60px;
         width: 140px;
         color: white;
         margin-top: 65px;
@@ -87,10 +87,10 @@
 
     }
     .point{
-        margin-left: 70px;
+      margin-left: 70px;
     }
     .body2{
-         height: 200px;
+        height: 200px;
         width: 100%;
         background-color: rgb(255, 82, 0);
         display: flex;
@@ -135,7 +135,7 @@
      
       .search2 {
       width: 30%;
-      display: flex;
+      display: flex; 
       height: 50px;
       background-color: white;
       align-items: center;
@@ -175,7 +175,7 @@
       background-color:rgb(255, 82, 0) ;
       display: flex;
       align-items: center;
-        justify-content: center;
+      justify-content: center;
       
     }
     .product1{
@@ -246,7 +246,7 @@
     padding: 20px;
     white-space: nowrap;   
     scroll-behavior: smooth;
-     width: 80%;
+    width: 80%;
     align-items: center;
     margin-left: 10%;
     }
@@ -280,8 +280,8 @@
     padding: 20px;
     white-space: nowrap;   
     scroll-behavior: smooth;
-     width: 80%;
-     margin-left: 10%;
+    width: 80%;
+    margin-left: 10%;
     align-items: center;
   
     
